@@ -16,4 +16,4 @@ The goals / steps of this project are the following:
 * The sense and movement functions and derived using Bayes Theorem.
 * Get the probablity of the robot located in a position.
 
-The main code is located in [here](./one_d_sensing_and_movement.cpp").
+The main code is located in [here](./one_d_sensing_and_movement.cpp).
